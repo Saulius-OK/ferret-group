@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+body{
+    background-image: url(images/background.jpg);
+}
+h1 {
+    text-align: center;
+    color: rgb(12, 118, 118);
+    text-shadow: 1px 1px rgb(235, 247, 8);
+    font-family: 'Alkatra', cursive;
+    letter-spacing: 0.2em;
+}
+.h1 {
+    margin-top: 3vh;
+    border-style: solid;
+    border-color: rgb(58, 234, 35);
+    border-radius: 15px 15px 30px 30px;
+    
+}
+nav li{
+    display: inline-block;
+    padding: 0 20px;
+}
